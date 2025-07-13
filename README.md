@@ -1,10 +1,11 @@
 # Hotel Management System
-### DBMS Course Project by Group-16, CS22
+### DBMS Course Project 
 #### Made using Python-Flask, MySQL, HTML, TailwindCSS and JavaScript
 
-### Team Members
-- [Abhinav Sinha](https://github.com/AbhiSinha08)  
-- Raghav Bahety
+# Team Members 
+- B Nayana
+- Bhavana Dinesh 
+
 
 # Usage Guide
 This Project requires the following tools:
